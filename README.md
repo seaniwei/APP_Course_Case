@@ -5,7 +5,7 @@
 #### 案例學習內容：
 * Media Query 和 RWD 控制
 * CSS Animation - CSS 動畫
-* CSS Variable - CSS 變數控制
+* CSS Variables - CSS 變數控制
 * HTML5 Storage
 
 ### Case1: Bootstrap Weather APP
@@ -13,7 +13,7 @@
 * Bootstrap Framework
 * Open Data Access - 取得中央氣象局開放資料
 * JSON - JSON Data 處理
-* jQuery
+* jQuery Events
 * HTML5 Geolocation & Google Map API
 * HTML5 Application Cache
 

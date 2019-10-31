@@ -8,11 +8,16 @@
 * CSS Variables - CSS 變數控制
 * HTML5 Storage
 
-### Case1: Bootstrap Weather APP
+### Case1: Open Data & JSON
 #### 案例學習內容：
-* Bootstrap Framework
 * Open Data Access - 取得中央氣象局開放資料
 * JSON - JSON Data 處理
+
+### Case2: Bootstrap Weather APP
+#### 案例學習內容：
+* Bootstrap Framework
+* Open Data Access
+* JSON
 * jQuery Events
 * HTML5 Geolocation & Google Map API
 * HTML5 Application Cache

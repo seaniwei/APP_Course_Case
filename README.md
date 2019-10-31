@@ -10,14 +10,14 @@
 
 ### Case1: Open Data & JSON
 #### 案例學習內容：
-* Open Data Access - 取得中央氣象局開放資料
-* JSON - JSON Data 處理
+* Open Data Access - 取得政府開放資料
+* JSON - JSON Data 前端取得與處理
+* Ajax, jQuery getJSON(), Python 方法
 
 ### Case2: Bootstrap Weather APP
 #### 案例學習內容：
 * Bootstrap Framework
-* Open Data Access
-* JSON
+* Open Data & JSON - 取得中央氣象局開放資料
 * jQuery Events
 * HTML5 Geolocation & Google Map API
 * HTML5 Application Cache

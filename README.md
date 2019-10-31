@@ -1,5 +1,5 @@
 ﻿# APP Programming and Design - Course Case
-《APP 程式開發與設計》課程案例
+####《APP 程式開發與設計》課程案例
 ## Table of Contents
 ### Case0: CSS Animation and Variable
 #### 案例學習內容：
@@ -11,8 +11,8 @@
 ### Case1: Bootstrap Weather APP
 #### 案例學習內容：
 * Bootstrap Framework
-* Open Data Access
-* JSON
+* Open Data Access - 取得中央氣象局開放資料
+* JSON - JSON Data 處理
 * jQuery
 * HTML5 Geolocation & Google Map API
 * HTML5 Application Cache

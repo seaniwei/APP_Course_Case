@@ -12,13 +12,18 @@ $(document).ready(function() {
         $(".collapse").collapse('hide');  // hide collapse 收起
     });
     $("#btn_city03").click(function(){
-        getWeather();
+        $("#city").text("桃園市");
+		$("#date").text("10/31");
         $(".collapse").collapse('hide');  // hide collapse 收起
     });
     $("#btn_city04").click(function(){
+		$("#city").text("新竹市");
+		$("#date").text("10/31");
         $(".collapse").collapse('hide');  // hide collapse 收起
     });
 	$("#btn_city05").click(function(){
+		$("#city").text("台中市");
+		$("#date").text("10/31");
         $(".collapse").collapse('hide');  // hide collapse 收起
     });
 	$("#btn_city06").click(function(){
@@ -72,7 +77,7 @@ $(document).ready(function() {
       $("#temp").html(tempf + "°");
       var tempc = Math.round(((weatherdata.currently.temperature)-32)/(9/5));
       var feelslikef = Math.round(weatherdata.currently.apparentTemperature);
-      $("#feels-like").html("Feels Like: " + feelslikef + "°F");
+      $("#feels-like").html("體感溫度: " + feelslikef + "°F");
       var feelslikec =  Math.round(((weatherdata.currently.apparentTemperature)-32)/(9/5));
       var summary = weatherdata.currently.summary;
       $("#weather-description").html(summary);
@@ -85,8 +90,7 @@ $(document).ready(function() {
 
       //3-DAY FORECAST
       //convert future dates (given in API by seconds since Jan 1 1970) to day of the week
-      var weekday = ["Sunday","Monday","Tuesday","Wednesday","Thursday",
-                "Friday","Saturday"]; //to find day of the week
+      var weekday = ["星期日","星期一","星期二","星期三","星期四","星期五","星期六"]; //to find day of the week
       var dayArray = []; //to store days of the week
       var iconArray = []; //to store icon values
       var tempMaxArray = []; //to store max temps
@@ -141,7 +145,7 @@ $(document).ready(function() {
       //toggle between F and C for every temperature
       $("#cbutton").click(function(event) {
         $("#temp").html(tempc + "°");
-        $("#feels-like").html("Feels Like: " + feelslikec + "°C");
+        $("#feels-like").html("體感溫度: " + feelslikec + "°C");
         $("#day2-high-low").html(Math.round(((tempMaxArray[0])-32)*(5/9))+"/"+Math.round(((tempMinArray[0])-32)*(5/9))+"°C");
         $("#day3-high-low").html(Math.round(((tempMaxArray[1])-32)*(5/9))+"/"+Math.round(((tempMinArray[1])-32)*(5/9))+"°C");
         $("#day4-high-low").html(Math.round(((tempMaxArray[2])-32)*(5/9))+"/"+Math.round(((tempMinArray[2])-32)*(5/9))+"°C");
@@ -149,7 +153,7 @@ $(document).ready(function() {
       //f click
       $("#fbutton").click(function(event) {
         $("#temp").html(tempf + "°");
-        $("#feels-like").html("Feels Like: " + feelslikef + "°F");
+        $("#feels-like").html("體感溫度: " + feelslikef + "°F");
         $("#day2-high-low").html(Math.round(tempMaxArray[0])+"/"+Math.round(tempMinArray[0])+"°F");
         $("#day3-high-low").html(Math.round(tempMaxArray[1])+"/"+Math.round(tempMinArray[1])+"°F");
         $("#day4-high-low").html(Math.round(tempMaxArray[2])+"/"+Math.round(tempMinArray[2])+"°F");

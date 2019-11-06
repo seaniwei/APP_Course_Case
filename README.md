@@ -17,7 +17,7 @@
 ### Case2: Bootstrap Weather APP
 #### 案例學習內容：
 * Bootstrap Framework
-* Open Data & JSON - 取得中央氣象局開放資料
+* Open Data & JSON - [中央氣象局氣象資料開放平台](https://opendata.cwb.gov.tw/index)
 * jQuery Events
 * HTML5 Geolocation & Google Map API
 * HTML5 Application Cache

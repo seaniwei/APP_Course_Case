@@ -14,8 +14,8 @@ by Sean Lu
 
 ### Case1: Open Data & JSON
 #### 案例學習內容：
-* Open Data Access - 取得政府開放資料
-* JSON - JSON Data 前端取得與處理
+* Open Data Access 取得政府開放資料
+* JSON Data 前端取得與處理
 * Ajax, jQuery getJSON(), Python 方法
 
 ### Case2: Bootstrap Weather APP

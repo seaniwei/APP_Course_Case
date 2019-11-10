@@ -91,8 +91,6 @@ hr.style1 {
   display: inline-block;
 }
 
-/*"natural" footer - stays at the bottom of the page but if page is longer than viewport, will need to scroll*/
-
 footer {
   position: absolute;
   right: 0;

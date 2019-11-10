@@ -1,12 +1,12 @@
 ﻿# APP Programming and Design - Course Case
 《APP 程式開發與設計》課程案例
 ## Table of Contents
-### Case0: CSS Animation and Variable
+### Case0: CSS Animations and Variables
 #### 案例學習內容：
 * Media Query & RWD 控制
-* CSS Animation - CSS 動畫
+* CSS Animations - CSS 動畫
 * CSS Variables - CSS 變數控制
-* HTML5 Storage
+* HTML5 Web Storage
 
 ### Case1: Open Data & JSON
 #### 案例學習內容：
@@ -20,8 +20,8 @@
 * Open Data & JSON with [中央氣象局氣象資料開放平台](https://opendata.cwb.gov.tw/index)
 * jQuery Events
 * HTML5 geolocation.getCurrentPosition()
-* Reverse geocoding with [LocationIQ API](https://locationiq.com/) & Google API
+* Reverse geocoding with [LocationIQ API](https://locationiq.com/) & [Google API](https://developers.google.com/maps/documentation/geocoding/intro)
 
-### Case3: Bootstrap Weather APP Deployment
+### Case3: Weather APP Deployment
 #### 案例學習內容：
 * HTML5 Application Cache

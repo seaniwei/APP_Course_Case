@@ -3,7 +3,7 @@
 ## Table of Contents
 ### Case0: CSS Animation and Variable
 #### 案例學習內容：
-* Media Query 和 RWD 控制
+* Media Query & RWD 控制
 * CSS Animation - CSS 動畫
 * CSS Variables - CSS 變數控制
 * HTML5 Storage
@@ -17,7 +17,11 @@
 ### Case2: Bootstrap Weather APP
 #### 案例學習內容：
 * Bootstrap Framework
-* Open Data & JSON - [中央氣象局氣象資料開放平台](https://opendata.cwb.gov.tw/index)
+* Open Data & JSON with [中央氣象局氣象資料開放平台](https://opendata.cwb.gov.tw/index)
 * jQuery Events
-* HTML5 Geolocation & Google Map API
+* HTML5 geolocation.getCurrentPosition()
+* Reverse geocoding with [LocationIQ API](https://locationiq.com/) & Google API
+
+### Case3: Bootstrap Weather APP Deployment
+#### 案例學習內容：
 * HTML5 Application Cache

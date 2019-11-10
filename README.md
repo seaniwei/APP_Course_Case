@@ -1,6 +1,6 @@
 ﻿# APP Programming and Design - Course Case
-#### 國立高雄科技大學智慧商務系-《APP 程式開發與設計》課程案例
-National Kaohsiung University of Science and Technology, Department of Intelligent Commerce
+##### 國立高雄科技大學智慧商務系-《APP 程式開發與設計》課程案例
+##### National Kaohsiung University of Science and Technology, Department of Intelligent Commerce
 by Sean Lu
 ## Table of Contents
 ### Case0: CSS Animations and Variables

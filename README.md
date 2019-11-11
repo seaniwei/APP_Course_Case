@@ -26,6 +26,6 @@ by Sean Lu
 * HTML5 geolocation.getCurrentPosition()
 * Reverse geocoding with [LocationIQ API](https://locationiq.com/) & [Google API](https://developers.google.com/maps/documentation/geocoding/intro)
 
-### Case3: Weather APP Deployment
+### Case3: Web APP Deployment
 #### 案例學習內容：
 * HTML5 Application Cache

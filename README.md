@@ -33,9 +33,13 @@ by Sean Lu
 #### 案例學習內容：
 * HTML5 Application Cache
 
-
 ### Case4: Cordova Deployment
 #### 案例學習內容：
 * Cordova Installation
 * Create a App project with Cordova
 * [Deploy a jQuery Mobile App on Android Phone](http://seansharingblog.blogspot.com/2017/06/cordova-jquery-mobile-web-app-android.html)
+
+### Case5: jQuery Mobile & Google MAP API
+#### 案例學習內容：
+* jQuery Mobile
+* Google MAP API

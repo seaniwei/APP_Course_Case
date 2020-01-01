@@ -41,5 +41,6 @@ by Sean Lu
 
 ### Case5: jQuery Mobile & Google MAP API
 #### 案例學習內容：
-* jQuery Mobile
+* jQuery Mobile & [jQuery Mobile Events](https://api.jquerymobile.com/category/events/)
 * Google MAP API
+* Google 地理資料庫 [Google Places Library](https://developers.google.com/maps/documentation/javascript/places)

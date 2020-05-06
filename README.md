@@ -18,7 +18,7 @@ by Sean Lu
 * JSON Data 前端取得與處理
 * [Ajax, jQuery getJSON() 方法](http://seansharingblog.blogspot.com/2018/04/javascript-get-json.html)
 * Server side data process using Python and PHP Server 端取得和處理
-* Crontab scheduling 排程
+* Crontab scheduling - [Crontab 排程介紹](https://blog.gtwang.org/linux/linux-crontab-cron-job-tutorial-and-examples/)
 
 ### Case2: Bootstrap Weather APP
 #### 案例學習內容：
